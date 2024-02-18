@@ -17,6 +17,7 @@ export const configurations = (
     <i className="fa-solid fa-configurations-between-lines"></i>
 );
 export const dollar = <i className="fa-solid fa-dollar-sign"></i>;
+export const gear = <i className="fa-solid fa-gear"></i>;
 export const calender = <i className="fa-solid fa-calendar"></i>;
 export const comment = <i className="fa-solid fa-comment"></i>;
 export const plus = <i className="fa-solid fa-plus"></i>;
