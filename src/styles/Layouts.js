@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 export const MainLayout = styled.div`
-    height: 100%;
     padding: 2rem;
+    height: 100%;
     display: flex;
     gap: 2rem;
 `;
